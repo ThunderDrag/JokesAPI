@@ -25,7 +25,7 @@ It is made on top of AWS Lambda, AWS API Gateway and AWS DynamoDB.
 
 ## ***Key Points:-***
 
-✅ Proper Authentication Validating. <br />
+✅ Proper Authentication Validating <br />
 ✅ Exception Handling <br />
 ✅ Logging <br />
 ✅ Optimized for speed <br />
