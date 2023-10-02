@@ -13,21 +13,21 @@ Under the hood, it's powered by AWS Lambda, AWS API Gateway, and AWS DynamoDB. �
 
 ## 📬 **Sample Request Header:**
 
-\```
+```
 GET /Production/api/jokes HTTP/1.1
 Host: h0zensjtaj.execute-api.ap-south-1.amazonaws.com
 auth: 0
-\```
+```
 
 ## 🎉 **Sample Successful Response:**
 
-\```
+```
 {
     "content": "What did the ocean say to the beach? Nothing, it just waved.",
     "authenticationStatus": true,
     "error": null
 }
-\```
+```
 
 ## 📌 **Highlights:**
 
